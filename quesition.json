@@ -1,0 +1,97 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What%20French%20sculptor%20designed%20the%20Statue%20of%20Liberty%3F%20",
+      "correct_answer": "Fr%C3%A9d%C3%A9ric%20Auguste%20Bartholdi",
+      "incorrect_answers": [
+        "Jean-L%C3%A9on%20G%C3%A9r%C3%B4me",
+        "Auguste%20Rodin",
+        "Henri%20Matisse"
+      ]
+    },
+    {
+      "category": "Entertainment%3A%20Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20name%20of%20Finnish%20DJ%20Darude%27s%20hit%20single%20released%20in%20October%201999%3F",
+      "correct_answer": "Sandstorm",
+      "incorrect_answers": ["Dust%20Devil", "Sirocco", "Khamsin"]
+    },
+    {
+      "category": "Entertainment%3A%20Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In%20the%20episode%20of%20SpongeBob%20SquarePants%2C%20%22Survival%20of%20the%20Idiots%22%2C%20Spongebob%20called%20Patrick%20which%20nickname%3F",
+      "correct_answer": "Pinhead",
+      "incorrect_answers": ["Starfish", "Larry", "Dirty%20Dan"]
+    },
+    {
+      "category": "Entertainment%3A%20Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In%20the%20movie%20%22Scream%22%20who%20is%20Ghost%20Face%3F",
+      "correct_answer": "Billy%20Loomis%20and%20Stu%20Macher",
+      "incorrect_answers": [
+        "Dewey%20Riley",
+        "Sidney%20Prescott",
+        "Archie%20Prescott%20and%20Philip%20Marv"
+      ]
+    },
+    {
+      "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20year%20did%20the%20anime%20%22Himouto%21%20Umaru-chan%22%20air%3F",
+      "correct_answer": "2015",
+      "incorrect_answers": ["2014", "2012", "2013"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The%20Space%20Needle%20is%20located%20in%20which%20city%3F",
+      "correct_answer": "Seattle",
+      "incorrect_answers": ["Los%20Angles", "Toronto", "Vancouver"]
+    },
+    {
+      "category": "Entertainment%3A%20Video%20Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which%20artist%20composed%20the%20original%20soundtrack%20for%20%22Watch%20Dogs%202%22%3F",
+      "correct_answer": "Hudson%20Mohawke",
+      "incorrect_answers": ["Rustie", "Machinedrum", "Flying%20Lotus"]
+    },
+    {
+      "category": "Entertainment%3A%20Video%20Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20of%20the%20following%20Call%20of%20Duty%20games%20was%20a%20PS3%20launch%20title%3F",
+      "correct_answer": "Call%20of%20Duty%203",
+      "incorrect_answers": [
+        "Call%20of%20Duty%204%3A%20Modern%20Warfare",
+        "Call%20of%20Duty%3A%20World%20at%20War",
+        "Call%20of%20Duty%3A%20Roads%20to%20Victory"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which%20country%20did%20the%20Eureka%20Rebellion%2C%20an%201856%20battle%20against%20colonial%20rule%2C%20take%20place%20in%3F",
+      "correct_answer": "Australia",
+      "incorrect_answers": ["India", "Canada", "Brazil"]
+    },
+    {
+      "category": "General%20Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In%20%22Resident%20Evil%203%22%2C%20how%20many%20inventory%20slots%20does%20Jill%20have%20at%20the%20start%20of%20the%20game%3F",
+      "correct_answer": "10",
+      "incorrect_answers": ["6", "8", "12"]
+    }
+  ]
+}
