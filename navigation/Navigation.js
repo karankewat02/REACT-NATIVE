@@ -5,6 +5,7 @@ import Home from '../screens/Home'
 import Quiz from '../screens/Quiz'
 import Result from '../screens/Result'
 import PreResult from '../screens/PreResult'
+import Instruction from '../screens/Instruction'
 
 
 const stack  = createStackNavigator();
@@ -20,6 +21,7 @@ const Navigation = () => {
                 <stack.Screen name="Quiz" component={Quiz} />
                 <stack.Screen name="Result" component={Result} />
                 <stack.Screen name="PreResult" component={PreResult} />
+                <stack.Screen name="Instruction" component={Instruction} />
         </stack.Navigator>
 
     </NavigationContainer>

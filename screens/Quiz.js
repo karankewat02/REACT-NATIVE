@@ -1,21 +1,23 @@
-import { StyleSheet, Text, TouchableOpacity, View} from 'react-native';
+import { Image,StyleSheet, Text, TouchableOpacity, View} from 'react-native';
 import React, {useEffect, useState} from 'react';
 import localData from '../quesition.json';
+import TimeBar from '../components/TimeBar';
 
 const Quiz = ({navigation}) => {
   const [quesition,setQuestion] = useState();
   const [ques, setQues] = useState(0);
   const [options, setOptions] = useState([]);
   const [score, setScore] = useState(0);
-  // const [isLoading,setIsLoading] = useState(false);
+  const [isLoading,setIsLoading] = useState(false);
 
   const getQuiz = async () => {
-    const url ='https://opentdb.com/api.php?amount=10&type=multiple&encode=url3986';
+    setIsLoading(true);
+    const url ='https://opentdb.com/api.php?amount=10&difficulty=easy&type=multiple&encode=url3986';
     const res = await fetch(url);
     const data = await res.json();
     setQuestion(data.results);
     generateOptionsAndShuffle(data.results[ques]);
-    console.log(quesition[ques]);
+    setIsLoading(false);
   };
 
   useEffect(() => {
@@ -36,7 +38,6 @@ const Quiz = ({navigation}) => {
   const generateOptionsAndShuffle = async _question => {
     const options = [..._question.incorrect_answers];
     options.push(_question.correct_answer);
-    console.log(options);
     await shuffleArray(options);
     setOptions(options);
   };
@@ -50,11 +51,8 @@ const Quiz = ({navigation}) => {
 
   const handelSelectedOption = _option => {
     if (ques === 9) {
-      if (_option === quesition[ques].correct_answer) {
-        setScore(score + 10);
-      }
       navigation.navigate('PreResult', {
-        score: score,
+        score: _option === quesition[ques].correct_answer ? score + 10 : score
       });
     } else {
       if (_option === quesition[ques].correct_answer) {
@@ -65,62 +63,76 @@ const Quiz = ({navigation}) => {
     }
   };
 
+
+  if(!isLoading){
+    setInterval(async () => {
+      setQues(ques+1);
+      await generateOptionsAndShuffle(quesition[ques + 1]);
+    }, 15000);
+  }
+
   return (
     <View style={styles.conatiner}>
-      {quesition &&(
-         <View style={styles.parent}> 
-      <View style={styles.quetionContainer}>
-        <Text style={styles.question}>
-          Q {ques + 1}. {decodeURIComponent(quesition[ques].question)}
-        </Text>
-      </View>
+      {isLoading ?
+       <View  style={styles.loaderContainer}>
+          <Image source={{uri : 'https://cdn3d.iconscout.com/3d/premium/thumb/loading-2872701-2409417.png'}} style={styles.loader} resizeMode="contain"/>
+          <Text style={{fontSize:24}}>Loading Please Wait ...</Text>
+       </View> 
+       : quesition &&(
+      <View style={styles.parent}> 
+        <TimeBar/>
+        <View style={styles.quetionContainer}>
+          <Text style={styles.question}>
+            Q {ques + 1}. {decodeURIComponent(quesition[ques].question)}
+          </Text>
+        </View>
 
-      <View style={styles.optionContainer}>
-        <TouchableOpacity onPress={() => {
-              handelSelectedOption(options[0]);
-            }} style={styles.optionButton}>
-          <Text style={styles.optionText}>
-            {decodeURIComponent(options[0])}{' '}
-          </Text>
-        </TouchableOpacity>
-        <TouchableOpacity onPress={() => {
-              handelSelectedOption(options[1]);
-            }} style={styles.optionButton}>
-          <Text style={styles.optionText}>
-            {decodeURIComponent(options[1])}
-          </Text>
-        </TouchableOpacity>
-        <TouchableOpacity onPress={() => {
-              handelSelectedOption(options[2]);
-            }} style={styles.optionButton}>
-          <Text style={styles.optionText}>
-            {decodeURIComponent(options[2])}
-          </Text>
-        </TouchableOpacity>
-        <TouchableOpacity onPress={() => {
-              handelSelectedOption(options[3]);
-            }} style={styles.optionButton}>
-          <Text style={styles.optionText}>
-            {decodeURIComponent(options[3])}
-          </Text>
-        </TouchableOpacity>
-      </View>
-
-      <View style={styles.buttonContainer}>
-
-        {ques !== 9 && (
-          <TouchableOpacity style={styles.button} onPress={nextHandeler}>
-            <Text style={styles.buttonText}>Skip</Text>
+        <View style={styles.optionContainer}>
+          <TouchableOpacity onPress={() => {
+                handelSelectedOption(options[0]);
+              }} style={styles.optionButton}>
+            <Text style={styles.optionText}>
+              {decodeURIComponent(options[0])}{' '}
+            </Text>
           </TouchableOpacity>
-        )}
-
-        {ques === 9 && (
-          <TouchableOpacity style={styles.button} onPress={exithandler}>
-            <Text style={styles.buttonText}>Skip and Show Result</Text>
+          <TouchableOpacity onPress={() => {
+                handelSelectedOption(options[1]);
+              }} style={styles.optionButton}>
+            <Text style={styles.optionText}>
+              {decodeURIComponent(options[1])}
+            </Text>
           </TouchableOpacity>
-        )}
-      </View>
-      </View>
+          <TouchableOpacity onPress={() => {
+                handelSelectedOption(options[2]);
+              }} style={styles.optionButton}>
+            <Text style={styles.optionText}>
+              {decodeURIComponent(options[2])}
+            </Text>
+          </TouchableOpacity>
+          <TouchableOpacity onPress={() => {
+                handelSelectedOption(options[3]);
+              }} style={styles.optionButton}>
+            <Text style={styles.optionText}>
+              {decodeURIComponent(options[3])}
+            </Text>
+          </TouchableOpacity>
+        </View>
+
+        <View style={styles.buttonContainer}>
+
+          {ques !== 9 && (
+            <TouchableOpacity style={styles.button} onPress={nextHandeler}>
+              <Text style={styles.buttonText}>Skip</Text>
+            </TouchableOpacity>
+          )}
+
+          {ques === 9 && (
+            <TouchableOpacity style={styles.button} onPress={exithandler}>
+              <Text style={styles.buttonText}>Skip and Show Result</Text>
+            </TouchableOpacity>
+          )}
+        </View>
+        </View>
     )}  
   </View>
   );
@@ -174,4 +186,15 @@ const styles = StyleSheet.create({
   parent: {
     height: '100%',
   },
+  loader:{
+    width:300,
+    height:300,
+  },  
+  loaderContainer:{
+    Height:"100%",
+    width:'100%',
+    flex:1,
+    justifyContent:'center',
+    alignItems:'center'
+  }
 });
