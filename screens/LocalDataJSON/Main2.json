@@ -1,0 +1,61 @@
+{
+    "results": [
+      {
+        "id": 798400,
+        "title": "Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant",
+        "image": "https://spoonacular.com/recipeImages/798400-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 646043,
+        "title": "Gujarati Dry Mung Bean Curry",
+        "image": "https://spoonacular.com/recipeImages/646043-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 716364,
+        "title": "Rice and Peas with Coconut Curry Mackerel",
+        "image": "https://spoonacular.com/recipeImages/716364-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 660290,
+        "title": "Slow Cooker Lamb Curry",
+        "image": "https://spoonacular.com/recipeImages/660290-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 641122,
+        "title": "Curry Leaves Potato Chips",
+        "image": "https://spoonacular.com/recipeImages/641122-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 642468,
+        "title": "Ethiopian Lentil Curry",
+        "image": "https://spoonacular.com/recipeImages/642468-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 658482,
+        "title": "Roasted Acorn Squash Stuffed with spicy Biryani (Veg/vegan)",
+        "image": "https://spoonacular.com/recipeImages/658482-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 641128,
+        "title": "Curry Mussels",
+        "image": "https://spoonacular.com/recipeImages/641128-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 633088,
+        "title": "Authentic Jamaican Curry Chicken",
+        "image": "https://spoonacular.com/recipeImages/633088-312x231.jpg",
+        "imageType": "jpg"
+      }
+    ],
+    "offset": 0,
+    "number": 9,
+    "totalResults": 113
+  }

@@ -1,0 +1,63 @@
+[
+    {
+        "key":1,
+        "name": "Pizza",
+        "iconURL": "https://cdn.iconscout.com/icon/free/png-128/pizza-3011653-2510990.png",
+        "value": "pizza"
+    },
+    {
+        "key":2,
+        "name": "Burger",
+        "iconURL": "https://cdn.iconscout.com/icon/free/png-128/burger-3069113-2550746.png",
+        "value": "burger"
+    },
+    {
+        "key":3,
+        "name": "Sandwich",
+        "iconURL": "https://cdn.iconscout.com/icon/premium/png-128-thumb/sandwich-2604057-2168287.png",
+        "value": "sandwich"
+    },
+    {
+        "key":4,
+        "name": "Momos",
+        "iconURL": "https://cdn.iconscout.com/icon/premium/png-128-thumb/dumpling-3373009-2816840.png",
+        "value": "dumpling"
+    },
+    {
+        "key":5,
+        "name": "Chinese",
+        "iconURL": "https://cdn.iconscout.com/icon/premium/png-128-thumb/noodles-2012483-1693693.png",
+        "value": "chinese"
+    },
+    {
+        "key":6,
+        "name": "Indian",
+        "iconURL": "https://cdn.iconscout.com/icon/premium/png-128-thumb/samosa-2386068-1997123.png",
+        "value": "indian"
+    },
+    {
+        "key":7,
+        "name": "Salad",
+        "iconURL": "https://cdn.iconscout.com/icon/free/png-128/salad-bowl-3239191-2699423.png",
+        "value": "salad"
+    },
+    {
+        "key":8,
+        "name": "Cake",
+        "iconURL": "https://cdn.iconscout.com/icon/free/png-128/cake-food-cherry-pastry-donut-sweet-31127.png",
+        "value": "cake"
+    },
+    {
+        "key":9,
+        "name": "Italian",
+        "iconURL": "https://cdn.iconscout.com/icon/premium/png-128-thumb/waffle-1935777-1640564.png",
+        "value": "italian"
+    },
+    {
+        "key":10,
+        "name": "Sushi",
+        "iconURL": "https://cdn.iconscout.com/icon/premium/png-128-thumb/sushi-roll-2604079-2168309.png",
+        "value": "sushi"
+    }
+
+]

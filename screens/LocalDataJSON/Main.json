@@ -1,0 +1,261 @@
+{
+  "sorting": "",
+  "filterMapping": {},
+  "filterOptions": [],
+  "activeFilterOptions": [],
+  "query": "dosa",
+  "totalResults": 38,
+  "limit": 10,
+  "offset": 0,
+  "searchResults": [
+    {
+      "name": "Recipes",
+      "type": "products",
+      "totalResults": 1,
+      "totalResultsVariants": 1,
+      "results": [
+        {
+          "id": 624304,
+          "name": "set dosa recipe",
+          "image": "https://spoonacular.com/recipeImages/624304-312x231.jpg",
+          "link": "https://spoonacular.com/recipes/set-dosa-recipe-624304",
+          "type": "HTML",
+          "relevance": 10000,
+          "content": "You can never have too many side dish recipes, so give set dosa  a try. For <b>82 cents per serving</b>, this recipe <b>covers 8%</b> of your daily requirements of vitamins and minerals. One serving contains <b>458 calories</b>, <b>10g of protein</b>, and <b>15g of fat</b>. If you have aval/ poha/ attukulu/avalakki, non iodised salt, oil, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes around <b>25 minutes</b>. It is a good option if you're following a <b>gluten free and vegan</b> diet. Try <a href=\"https://spoonacular.com/recipes/godhuma-dosa-instant-wheat-dosa-south-indian-breakfast-s-564757\">Godhuma Dosa – Instant Wheat Dosa | South Indian Breakfast s</a>, <a href=\"https://spoonacular.com/recipes/sabudana-dosa-sago-dosa-for-fast-vrat-616225\">Sabudana dosa | Sago dosa for fast, vrat</a>, and <a href=\"https://spoonacular.com/recipes/poha-dosa-or-atukula-dosa-how-to-make-poha-dosa-487542\">poha dosan or atukula dosa , how to make poha dosa</a> for similar recipes.",
+          "dataPoints": []
+        }
+      ]
+    },
+    {
+      "name": "Products",
+      "type": "products",
+      "totalResults": 26,
+      "totalResultsVariants": 26,
+      "results": [
+        {
+          "id": 1576675,
+          "name": "Masala Dosa Heart Love Cupcake Picks Toppers - Set of 6",
+          "image": "https://spoonacular.com/productImages/1576675-312x231.jpeg",
+          "link": "https://spoonacular.com/products/masala-dosa-heart-love-cupcake-picks-toppers-set-of-6-1576675",
+          "type": "HTML",
+          "relevance": 10000,
+          "content": null,
+          "dataPoints": []
+        },
+        {
+          "id": 848009,
+          "name": "Instant Mix Dosa (Pan Cake Mix) - 7.04oz",
+          "image": "https://spoonacular.com/productImages/848009-312x231.jpeg",
+          "link": "https://spoonacular.com/products/instant-mix-dosa-pan-cake-mix-704oz-848009",
+          "type": "HTML",
+          "relevance": 9999,
+          "content": null,
+          "dataPoints": []
+        },
+        {
+          "id": 1548501,
+          "name": "Deep Dosa Mix, 7 oz",
+          "image": "https://spoonacular.com/productImages/1548501-312x231.jpeg",
+          "link": "https://spoonacular.com/products/deep-dosa-mix-7-oz-1548501",
+          "type": "HTML",
+          "relevance": 9998,
+          "content": null,
+          "dataPoints": []
+        },
+        {
+          "id": 1845429,
+          "name": "MTR Dosa Mix Breakfast Time 200 gm [PACK OF 2]",
+          "image": "https://spoonacular.com/productImages/1845429-312x231.jpeg",
+          "link": "https://spoonacular.com/products/mtr-dosa-mix-breakfast-time-200-gm-pack-of-2-1845429",
+          "type": "HTML",
+          "relevance": 9997,
+          "content": null,
+          "dataPoints": []
+        },
+        {
+          "id": 818793,
+          "name": "MTR Dosa Mix Breakfast Time 200 gm [PACK OF 3]",
+          "image": "https://spoonacular.com/productImages/818793-312x231.jpeg",
+          "link": "https://spoonacular.com/products/mtr-dosa-mix-breakfast-time-200-gm-pack-of-3-818793",
+          "type": "HTML",
+          "relevance": 9996,
+          "content": null,
+          "dataPoints": []
+        },
+        {
+          "id": 1166373,
+          "name": "GITS DOSAI MIX 500 GM",
+          "image": "https://spoonacular.com/productImages/1166373-312x231.jpeg",
+          "link": "https://spoonacular.com/products/gits-dosai-mix-500-gm-1166373",
+          "type": "HTML",
+          "relevance": 9995,
+          "content": null,
+          "dataPoints": []
+        },
+        {
+          "id": 999961,
+          "name": "GITS Dosa Mix 200 gm [PACK OF 4]",
+          "image": "https://spoonacular.com/productImages/999961-312x231.jpeg",
+          "link": "https://spoonacular.com/products/gits-dosa-mix-200-gm-pack-of-4-999961",
+          "type": "HTML",
+          "relevance": 9994,
+          "content": null,
+          "dataPoints": []
+        },
+        {
+          "id": 1177393,
+          "name": "Idli-Dosa Chutney powder- Indian Grocery",
+          "image": "https://spoonacular.com/productImages/1177393-312x231.jpeg",
+          "link": "https://spoonacular.com/products/idli-dosa-chutney-powder-indian-grocery-1177393",
+          "type": "HTML",
+          "relevance": 9993,
+          "content": null,
+          "dataPoints": []
+        },
+        {
+          "id": 1867269,
+          "name": "DOSAM Global DAMCHAE Korean Nutritious, Healthy Snack - Mixed Vegetable Chips, Mix of Pumpkin, Onion, Okra, Carrot, Pea, Palm oil, Maltose, Salt. 1.76oz",
+          "image": "https://spoonacular.com/productImages/1867269-312x231.jpeg",
+          "link": "https://spoonacular.com/products/dosam-global-damchae-korean-nutritious-healthy-snack-mixed-vegetable-chips-mix-of-pumpkin-onion-okra-carrot-pea-palm-oil-maltose-salt-176oz-1867269",
+          "type": "HTML",
+          "relevance": 9992,
+          "content": null,
+          "dataPoints": []
+        }
+      ]
+    },
+    {
+      "name": "Menu Items",
+      "type": "products",
+      "totalResults": 0,
+      "totalResultsVariants": 0,
+      "results": []
+    },
+    {
+      "name": "Articles",
+      "type": "custom",
+      "totalResults": 1,
+      "results": [
+        {
+          "name": "Vitamin C",
+          "image": "https://spoonacular.com/cdn/ingredients_100x100/curry-leaves.jpg",
+          "link": "https://spoonacular.com/academy/vitamin-c",
+          "type": "HTML",
+          "relevance": 35.1876106262207,
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "Videos",
+      "type": "custom",
+      "totalResults": 10,
+      "totalResultsVariants": 10,
+      "results": [
+        {
+          "id": 17185,
+          "name": "Masala Dosa Recipe | How To Make Masala Dosa At Home | Dosa Recipe By Smita Deo",
+          "image": "https://i.ytimg.com/vi/LTNVvmSZKj0/hqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=LTNVvmSZKj0",
+          "type": "YOUTUBE_VIDEO",
+          "relevance": 10000,
+          "content": "Masala Dosa Recipe | Masala Dosa Aloo Recipe | Masala Dosa Batter Recipe | Masala Dosa Street Food  |Masala Dosa Potato Recipe | Dosa Recipe |dosa | indian Street Food |south Indian Food |aloo Masala Dosa |masala Dosai | dosa Batter | how To Make Dosa| best Masala Dosa | Easy Masala Dosa | Masale Wala Dosa | Tawa Masala Dosa | Quick Masala Dosa | Dosa Batter Recipe| Get Curried| Authentic Recipes By smita Deo \n\nLearn How To Make Masala Dosa  With Smita Deo.\n0:00 - Introduction \nMasala dosa or masale dose is a variant of the popular South Indian food dosa, which has its origins in Tulu Mangalorean cuisine made popular by the Udupi hotels all over India.\n\nMasala Dosa  Ingredients -\n0:30 - To Make Batter \n1 cup Split Black Gram (Soaked)\n1 cup Rice With 1/2 tsp Fenugreek Seeds (Soaked)\nWater\nSalt\n\n1:40 - To Make Potato Filling:-\n1 tbsp Oil\n1/8 tsp Asafoetida\n1 tsp Black Mustard Seeds\n8 - 10 Green Chillies\n15 -20 Curry Leaves\n1 1/2 Onions ( Sliced )\n1/2 tsp Turmeric Powder\nSalt\n3 Potatoes (Boiled, Peeled & chopped)\nJuice Of 1/2 Lemon \n\n3:10 - To Make Masala Dosa\nBatter \nOil\nPotato Filling\n\n#MasalaDosa #SouthIndianDosa #GetCurried #SmitaDeo \n\nDownload the Get Curried App by clicking on this link:- http://bit.ly/GetCurriedVegNonVegRecipes_And\n\nHost: Smita Deo\nCopyrights: REPL\n\nSubscribe and Get regular Updates: http://bit.ly/SubscribeToGetCurried\n\nhttps://www.facebook.com/GetCurried\n\nhttps://twitter.com/Get_Curried\n\nhttps://instagram.com/getcurried\n\nWhat Is Masala Dosa?\nMasala dosa is a variation of the popular South Indian dosa, which has its origins in Tuluva Mangalorean cuisine of Karnataka. It is made from rice, lentils, potato, fenugreek, ghee and curry leaves, and served with chutneys and sambar. It is popular in South India, it can be found in all other parts of the country and overseas. In South India, the preparation of masala dosa varies from city to city. There are variations in Masala dosa like Mysore masala dosa, Rava masala dosa, Onion masala dosa, Paper masala dosa, Cheese masala dosa etc.",
+          "dataPoints": []
+        },
+        {
+          "id": 12740,
+          "name": "Upvas/Vrat Dosa | Crispy Dosa for Upvas | Navratri Special Upvas Dosa | Sabudana Dosa",
+          "image": "https://i.ytimg.com/vi/9gbi-gwDnvs/hqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=9gbi-gwDnvs",
+          "type": "YOUTUBE_VIDEO",
+          "relevance": 9999,
+          "content": "Learn how to make Nutritious 'Upvas Ka Dosa' or 'Vrat Ka Dosa' recipe this Navratri with our chef Ruchi Bharani.\n\nCooking which food during fast, is one of the biggest questions asked during fasting. So, here we are bringing you the best and the easiest recipe for this Navratri. 'Upvas Ka Dosa' or 'Sabudana Dosa' is made using sago, samo, green chilli paste and other ingredients.\nYou can have this delicious 'Upvas Dosa' with some fresh coconut chutney and coriander mint chutney; of which, you can find the link below:\nFresh Coconut Chutney - https://youtu.be/MyWSGjgftNs \nCoriander Mint Chutney - https://youtu.be/Elo1u6oqwCQ\n\nIngredients:\n- 1 cup Samo & 1/2 cup Sabudana(washed & soaked)\n- 8-10 Curry Leaves \n- 1/2 tsp Cumin Seed Powder(roasted)\n- 1 tsp Green Chilli Paste\n- Salt\n- Water\n- 1 tbsp Powdered Sugar\n- Ghee\n\n#UpvasDosa #SabudanaDosa #RajshriFood\n\nIf you like this recipe 'Upvas Ka Dosa', you can also try other such Upvas  recipes like:\nUpvas Kachori - https://youtu.be/nuwIYmImCP0\nSabudana Vada - https://youtu.be/CiH5SsXNGFo\nUpvas Rajgira Puri & Aloo Sabzi - https://youtu.be/UQGNljx4aII\n\nVisit our Website for more Awesome Recipes\nhttp://rajshrifood.com/\n\nDownload the Rajshri Food App by clicking on this link:- http://bit.ly/RajshriFood_And\n\nHost: Ruchi Bharani\nDirector: Chirag Mehta\nCamera: Kavaldeep Singh Jangwal, Bhushan Shivangekar, Shirin Shinde, Abhishek Deshmukh\nEditor: Dinesh Shetty\nProducer: Neha Barjatya\nCopyrights: Rajshri Entertainment Private Limited\n\nSubscribe & Stay Tuned - http://bit.ly/SubscribeToRajshriFood\n\nFor more videos log onto http://www.youtube.com/rajshrifood  \n\nFind us on Facebook at https://www.facebook.com/rajshrifood\n\nFollow us on google plus https://plus.google.com/+rajshrifood",
+          "dataPoints": []
+        },
+        {
+          "id": 20941,
+          "name": "Instant Oats Poha Dosa | ओट्स डोसा की रेसिपी | Healthy Dosa for Breakfast | Mintsrecipes",
+          "image": "https://i.ytimg.com/vi/MEyZIBqEb6U/hqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=MEyZIBqEb6U",
+          "type": "YOUTUBE_VIDEO",
+          "relevance": 9998,
+          "content": "Today's recipe is super simple, super quick, and super tasty. Oats wala Instant Dosa! A perfect combination of health and flavors on your plate for breakfast, lunch, dinner, or even snacks.\n\nIngredients:\nTo make Dosa:\n• 1 cup oats \n• 1 cup poha\n• 1 cup semolina \n• 1 cup curd \n• Salt to your taste\n• 1 tsp Eno \n• Oil \n• Water as required \nTo make potatoes mixture:\n• 6-7 Boiled Mashed potatoes \n• ½ cup finely chopped onion\n• 1-2 mid-size finely chopped tomatoes \n• 1 tsp mustard seeds\n• 1 tsp red chili powder\n• ½ tsp garam masala\n• ½ tsp mango powder\n• 1-2 chopped green chilli \n• Salt to your taste\n• 1-2 tbsp chopped coriander leaves \n• Few curries leave \n\n--------------------------------------------------------------------------------------------------\nMy Products: https://www.amazon.in/shop/mintsrecipeshindi\nOrpat Electric Beater: http://amzn.to/2BAtNr5\nInduction: https://amzn.to/2UflSK6\nBaking Tray: https://amzn.to/2TRX4Zj\nBorosil Bowl: https://amzn.to/3b4th5L\n\nLET'S CONNECT!\n----------------------------\nSubscribe ➔ http://bit.ly/mintsrecipes\nWebsite ➔ https://www.mintsrecipes.com\nFacebook ➔ https://facebook.com/mintsrecipes\nInstagram ➔ https://www.instagram.com/mintsrecipes/\nTiktok ➔ http://tiktok.com/@mintsrecipes\nTwitter ➔ https://twitter.com/mintsrecipes\n\n#mintsrecipes #instantdosa #pohadosa",
+          "dataPoints": []
+        },
+        {
+          "id": 10478,
+          "name": "Quick And Easy Neer Dosa Recipe - Mangalore Style Neer Dosa - Special Dosa Recipe - Varun",
+          "image": "https://i.ytimg.com/vi/ftG4q-Wrzmc/hqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=ftG4q-Wrzmc",
+          "type": "YOUTUBE_VIDEO",
+          "relevance": 9997,
+          "content": "Learn how to make South Indian Special Neer Dosa at home with Chef Varun\n\nThe Mangalorean Neer Dosa Recipe is a simple, quick recipe to make. Neer dosa is made purely from rice and combined along with coconut. Neer Dosa has a very soft texture.\n\nDesi style dosa from Mangalore region of Karnataka. The dosa is light, thin and aerated well. The batter must be fermented with coconut milk thus giving the authentic flavor to this dish. You can serve it along with Grassi and Sweet coconut chutney.\nIt's a Southindian special Neer Dosa, easy to make and tasty to eat. Very less hassle for a beautiful outcome. Neer dosa is a very popular Karnataka breakfast fare, which literally means ‘water crepe’ since the batter is of flowing watery consistency. \nThis is a dish made out of rice and is unique to the region of South Karnataka and Udipi district.  ‘Neer’ in Kannada and Tulu language translates to water. Special Dosa for all the members of the family.\nThe beauty in the preparation of Neer Dosa is its simplicity in the use of ingredients, which is mainly rice & can be quickly made for a healthy, especially for children. It is Quick and Easy Neer Dosa recipe.\nWatch our video to try Mangalore Style Neer Dosa at home, and don't forget to share your feedback in the comments section below.\nDo watch the video to know more about South Indian Special Neer Dosa! Don't forget to Like, Share, Comment and Subscribe for instant updates\n\n#MangaloreStyleNeerDosa#SouthIndianDosa#BreakfastMeal#RajshriFood\n\nSubscribe & Stay Tuned - http://bit.ly/SubscribeToRajshriFood\n\nVisit our Website for more Awesome Recipes\nhttp://rajshrifood.com/\n\nDownload the Rajshri Food App by clicking on this link:- http://bit.ly/RajshriFood_And\n\nIngredients:\n1 cup Rice (soaked)\n1/4 cup Water\nFresh Coconut (grated)\n3/4 & 1 cup Water (into the bowl)\nSalt\n\nMethod: Let's start with Grinding Rice (Soaked) with water and then add in Fresh Coconut (grated). Now grind it all into a smooth paste, then transfer it into the Bowl with water added in (as shown in the video) then add in Salt, stir it properly. Now, Heat up the Oil in the and smear it all over the pan using the tissue paper.\nOnce the pan is hotter add in the Batter (as shown in the video), and let it cook for medium to low flame for 30 to 40 seconds. After 40 seconds lift from the side and fold in quarters, take it out in a serving plate. Do the same with remaining batter and your Neer Dosa is ready to serve. \n\nHost: Varun Inamdar \nDirector: Chirag Mehta\nCamera: Kavaldeep Singh Jangwal, Bhushan Shivangekar, Shirin Shinde, Abhishek Deshmukh\nEditor: Dinesh Shetty\nProducer: Neha Barjatya\nCopyrights: Rajshri Entertainment Private Limited\n\nFor more videos log onto http://www.youtube.com/rajshrifood  \n\nFind us on Facebook at https://www.facebook.com/rajshrifood\n\nFollow us on google plus https://plus.google.com/+rajshrifood",
+          "dataPoints": []
+        },
+        {
+          "id": 10682,
+          "name": "5 मिनट में बस घोलिए और डोसा बनाये | Instant Dosa Using Premix | Masala Dosa Recipe in Hindi",
+          "image": "https://i.ytimg.com/vi/shOKqZgs2HA/hqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=shOKqZgs2HA",
+          "type": "YOUTUBE_VIDEO",
+          "relevance": 9996,
+          "content": "Instant Dosa Recipe | Masala Dosa Recipe in Hindi and that too using dosa premix. It can be made anytime whenever you need to make dosa. You don't need to do any preparation to make this Dosa. Just add premix in water and make the batter for dosa as and when required.\n\nI have used regular low priced rice known as parboiled rice which you can easily get in the market. \n\nIngredients:\n• 200 Gram Parboiled Rice\n• 200 Gram Urad Dal\n• 11/2 Tsp All Purpose Flour\n• 1/4 Tsp Citric Acid\n• 1/4 Tsp Soda\n• 1/4 Tsp Salt\n• 200 Ml Or 1 Cup Water\n\nFor Potato Stuffing:\n• 3-4 Potatoes, Boiled, Medium Sized\n• 2 Tsp Oil\n• 1/2 Tsp Mustard Seeds\n• Few Sprig Curry Leaves\n• 2 Tbsp Chana Dal (Soaked)\n• ¼ Cup Onion Finely Chopped\n• ¼ Cup French Beans, Finely Chopped\n• ¼ Cup Green Peas\n• ¼ Cup Carrot, Finely Chopped\n• ½ Tsp Turmeric Powder\n• ½ Tsp Sambhar Masala\n• ½ Tsp Garam Masala\n• ¾ Tsp Red Chilly Powder\n• Salt As Per Taste\n• Freshly Chopped Coriander Leaves\n• Spring Onions (Optional)",
+          "dataPoints": []
+        },
+        {
+          "id": 20257,
+          "name": "3 Quick & Easy Chutney For Dosa & Idli | Green Coconut Chutney | Peanut Chutney | Kara Chutney",
+          "image": "https://i.ytimg.com/vi/i18ahV3fn-Y/hqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=i18ahV3fn-Y",
+          "type": "YOUTUBE_VIDEO",
+          "relevance": 9995,
+          "content": "In this episode of Mother's Recipe, let's make 3 Types of Chutney for Dosa & Idli at home\n\nHow To Make Chutney For Idli | How To Make Chutney For Dosa | Green Coconut Chutney Recipe | \nPeanut Chutney Recipe | Kara Chutney Recipe | How To Make Coconut Chutney | Chutney Recipes for Breakfast | Hotel Style Chutney | Coconut Coriander Chutney | Green Chutney Recipe | Red Chutney Recipe | Yellow Chutney Recipe | Recipes For Beginners | South Indian Chutney recipe | Basic Side Dish For Idli & Dosa | Rajshri Food \n\n3 Types of Chutney Ingredients\nIntroduction - 0:00\n\nHow To Make Green Coconut Chutney - 0:17\n1 cup Fresh Coconut (grated)\n1/2 cup Coriander Leaves\n3 Green Chillies\n1 inch Ginger\n1/2 inch Tamarind\nSalt\nWater (as required)\n\nGrinding Green Coconut Chutney - 0:57\n\nMaking Tadka - 1:16\n2 tsp Oil\n1/2 tsp Mustard Seeds\n2-3 Dried Rede Chillies\nCurry Leaves\n\nHow To Make Peanut Chutney - 1:42\n1 cup Peanuts\n2 tbsp Oil\n1 tbsp Chana Dal\n1 tsp Cumin Seeds\n3 Green Chillies\n1 inch Ginger\n5 Garlic Cloves\n\nGrinding Peanut Chutney - 2:42\n1-inch Tamarind\nSalt\n1/2 cup Water\n\nHow To Make Kara Chutney - 3:23\n2 tbsp Oil\n1 tbsp Chana Dal\n1 tbsp Urad Dal\n1 Onion (chopped)\n5-6 Garlic Cloves\n6-7 Dried Red Chillies (soaked)\n1 inch Ginger\n1 Tomato (chopped)\n\nGrinding The Kara Chutney - 4:45\n1 tbsp Coconut (grated)\n1/2 inch Tamarind\nSalt\n1/2 cup Water\n\n#ChutneyRecipes #KaraChutney #PeanutChutney #AnybodyCanCookWithRajshriFood \n\nVisit our Website for more Awesome Recipes\nhttp://rajshrifood.com/\n\nDownload the Rajshri Food App by clicking on this link:- http://bit.ly/RajshriFood_And\n\nCopyrights: Rajshri Entertainment Private Limited\n\nSubscribe & Stay Tuned - http://bit.ly/SubscribeToRajshriFood\n\nFor more videos log onto http://www.youtube.com/rajshrifood  \n\nFind us on Facebook at https://www.facebook.com/rajshrifood\n\nAbout Chutney \nA chutney is a spread in the cuisines of the Indian subcontinent. Chutneys are made in a wide variety of forms, such as a tomato relish, a ground peanut garnish, yogurt or curd, cucumber, spicy coconut, spicy onion or mint dipping sauce. Raw Coconut chutney, fried Coconut chutney, coriander, mint, tomato, onion, ginger, garlic, peanut, seasame, curry leaf, green chilli, red chilli, radish, mango, mango leaf, Guva leaf, tamarind, green tamarind, tamarind flower, tamarind leaf, lentil chutneys, almost all vegetables and Indian herbs. In India, chutneys can be either made alongside pickles that are matured in the sun for up to two weeks and kept up to a year or, more commonly, are freshly made from fresh ingredients that can be kept a couple of days or a week in the refrigerator. Chutneys goes well with breakfast recipes like Idli , Idiyappam, Uttapam & Dosas.",
+          "dataPoints": []
+        },
+        {
+          "id": 10400,
+          "name": "Benne Dosa | Davangere Benne Dosa Recipe | How To Make Butter Dosa | South Indian Dosa | Varun",
+          "image": "https://i.ytimg.com/vi/PHeC6LE_0h4/hqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=PHeC6LE_0h4",
+          "type": "YOUTUBE_VIDEO",
+          "relevance": 9994,
+          "content": "Benne Dosa Recipe | Davangere Dosa | How To Make Davanagere Benne Dosa | Butter Dosa Recipe | South Indian Food | Rajshri Food\n\nLearn How to Make Butter Dosa - Benne Dosa At Home with Chef Varun on Rajshri Food.\n\nBored with regular dosa? Make this special Davangere Benne Dosa at home with these easy steps and simple recipe from the video.\n\nThis crispy, tasty and buttery Benne Dosa is originated from the city of Davangere in Karnataka, India. Benne Dosa in simple English means Butter Dosa. Benne Dosa consists of a generous amount of butter in the preparation of the dosa. You can prepare this butter dosa for breakfast.\n\nYou can try this recipe with:\nCoconut Chutney - https://youtu.be/MyWSGjgftNs\nCoriander Mint Chutney - https://youtu.be/niDJJaDZqM4\n\nIngredients:\n(Serves 4)\n- 1 cup Urad Dal & 1/2 tsp Fenugreek Seeds (soaked)\n- 3 cups Rice (soaked)\n- Water\n- 2 cups Flattened Rice\n- 1/2 cup Water\n- Salt\n- 1/4 tsp Oil\n- Butter Cubes\n\n#BenneDosa #DavangereDosa #RajshriFood #ButterDosa \n\nVisit our Website for more Awesome Recipes\nhttp://rajshrifood.com/\n\nDownload the Rajshri Food App by clicking on this link:- http://bit.ly/RajshriFood_And\n\nHost: Varun Inamdar \nDirector: Chirag Mehta\nCamera: Kavaldeep Singh Jangwal, Bhushan Shivangekar, Shirin Shinde, Abhishek Deshmukh\nEditor: Dinesh Shetty\nProducer: Neha Barjatya\nCopyrights: Rajshri Entertainment Private Limited\n\nSubscribe & Stay Tuned - http://bit.ly/SubscribeToRajshriFood\n\nFor more videos log onto http://www.youtube.com/rajshrifood  \n\nFind us on Facebook at https://www.facebook.com/rajshrifood\n\nFollow us on google plus https://plus.google.com/+rajshrifood",
+          "dataPoints": []
+        },
+        {
+          "id": 17069,
+          "name": "Onion Chutney | How To Make Onion Chutney For Idli & Dosa | Quick & Easy Chutney Recipe | Ruchi",
+          "image": "https://i.ytimg.com/vi/VshF56wWzmU/hqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=VshF56wWzmU",
+          "type": "YOUTUBE_VIDEO",
+          "relevance": 9993,
+          "content": "Onion Chutney For Dosa | Onion Chutney For Idli | Onion Chutney Recipe | Onion Tomato Chutney | Onion Chutney Recipe | Chutney Recipe | How To Make Onion Chutney | Easy Chutney Recipe | Idli Chutney | Chutney For Chaat | Easy Chutney Recipe | Homemade Chutney | Idli Chutney | Instant Chutney Recipe | Chatni Recipe | Best Chutney Recipe | Basic Cooking | Quick & Easy | Rajshri Food | Ruchi Bharani \n\nLearn how to make Onion Chutney at home with our Chef Ruchi Bharani\n\nOnion Chutney Ingredients:\n1 tbsp Oil\n4-5 Kashmiri Red Chillies (broken)\n3 Onions (sliced)\n5 Garlic Cloves (garlic)\n1 Tomato (deseeded & finely chopped)\n1 tsp Raw Mango Powder\n1 tsp Coriander Seeds Powder\n1/2 tsp Cumin Seeds Powder\n1 tsp Fennel Seeds Powder\nSalt\n15-20 Curry Leaves\n1 Green Chilli\n1/4 tsp Asafoetida\n\n#OnionChutney #ChutneyRecipe #AnybodyCanCookWithRajshriFood\n\nVisit our Website for more Awesome Recipes\nhttp://rajshrifood.com/\n\nDownload the Rajshri Food App by clicking on this link:- http://bit.ly/RajshriFood_And\n\nHost: Ruchi Bharani\nCopyrights: Rajshri Entertainment Private Limited\n\nSubscribe & Stay Tuned - http://bit.ly/SubscribeToRajshriFood\n\nFor more videos log onto http://www.youtube.com/rajshrifood\n\nFind us on Facebook at https://www.facebook.com/rajshrifood\n\nA chutney is a family of condiments or sauces in the cuisines of the Indian subcontinent. Chutneys may be realized in such forms as a tomato relish, a ground peanut garnish, yogurt or curd, cucumber, spicy coconut, spicy onion or mint dipping sauce.\nOther prominent ingredients and combinations include coriander, capsicum, mint (coriander and mint chutneys are often called हरा hara chutney, Hindi for \"green\"), Tamarind or Imli (often called meethi chutney, sooth, coconut, onion, prune, tomato, red chili, green chili, mango, lime (made from whole, unripe limes), garlic, coconut, peanut, dahi, green tomato, dhaniya pudina (cilantro and mint), peanut (shengdana chutney in Marathi), ginger, dahi (yogurt), red chili powder, tomato onion chutney, cilantro, mint coconut chutney, and apricot",
+          "dataPoints": []
+        },
+        {
+          "id": 15059,
+          "name": "How To Make Poha Dosa | Instant Poha Dosa | Soft & Sponge Dosa Recipe | Easy Breakfast By Varun",
+          "image": "https://i.ytimg.com/vi/wuj0p_bD1XA/hqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=wuj0p_bD1XA",
+          "type": "YOUTUBE_VIDEO",
+          "relevance": 9992,
+          "content": "Poha Dosa Recipe | Healthy Poha Dosa Recipe | Quick & Easy Dosa | How To Make Dosa | Best Dosa Recipe | Breakfast Recipe | Poha Dosa Batter | Instant Breakfast Recipe | Rajshri Food | Varun Inamdar\n\nLearn how to make Poha Dosa with our chef Varun Inamdar.\n\nPoha Dosa is an instant healthy dosa recipe which is packed with nutrients. This mouthwatering dosa is not only healthy but tastes amazing as well. It is quick & easy to make at home!\n\nIngredients:\n- 1 cup Raw Rice\n- 3/4 cup Flattened Rice\n- 1 cup Hot Water (for soaking rice)\n- 1/4 cup Hot Water (for soaking flattened rice)\n- 1/4 tsp Coconut Oil (on pan)\n- 1/4 tsp Coconut Oil\n\n#PohaDosa #DosaRecipe #RajshriFood #EasyBreakfast\n\nVisit our Website for more Awesome Recipes\nhttp://rajshrifood.com/\n\nDownload the Rajshri Food App by clicking on this link:- http://bit.ly/RajshriFood_And\n\nHost: Varun Inamdar\nDirector: Vishal Chavan\nEditor: Dinesh Shetty\nProducer: Neha Barjatya\nCopyrights: Rajshri Entertainment Private Limited\n\nSubscribe & Stay Tuned - http://bit.ly/SubscribeToRajshriFood\n\nFor more videos log onto http://www.youtube.com/rajshrifood  \n\nFind us on Facebook at https://www.facebook.com/rajshrifood\n\nFollow us on google plus https://plus.google.com/+rajshrifood",
+          "dataPoints": []
+        },
+        {
+          "id": 7587,
+          "name": "Mixed Dal Dosa Recipe | Paryushan Recipes | Teen Dal Dosa | Mixed Lentil Crepes | Ruchi Bharani",
+          "image": "https://i.ytimg.com/vi/-LQg5-Zdryg/mqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=-LQg5-Zdryg",
+          "type": "YOUTUBE_VIDEO",
+          "relevance": 9991,
+          "content": "Learn How To Make Mixed Dal Dosa Recipe, a Paryushan Recipe, from Chef Ruchi Bharani, only on Rajshri Food. Make this easy to make tasty Teen Dal Dosa or Mixed Lentil Crepes Recipe at home and share your experiences with us in the comments section below.\n\nIngredients:-\n½ cup Rice, 1½ tbsp. Split Bengal Gram (Chana Dal), 1½ tbsp. Split Red Gram (Tuvar Dal),  1½ tbsp. Split Green Gram (Moong Dal) soaked for 4 hours\n1 tsp. Red chilli powder\n1 pinch of Turmeric powder\n¼ tsp. Cumin seed powder\n½ tsp. Raw mango powder (Aamchur Powder)\n¼ tsp. Asafoetida\n1 tsp. Sugar\nSalt to taste\n\n\n\nMethod:-\n1. Drain the soaked ingredients and grind them with red chilli powder, turmeric powder, cumin seed powder, raw mango powder, asafoetida, sugar and water to a coarse paste.\n2. Add salt as per taste and mix well.\n3. Heat a pan and make dosas from the batter on low flame using ghee.\n4. Cover with lid and cook until brown edges are visible.\n5. Flip over and cook for a minute on the other side.\n6. Clean the pan with a wet cloth between each dosa to cool down the pan.\n\n\nParyushan Special Mixed Dal Dosa is ready to eat! HAPPY COOKING!!!\n\n\nHost: Ruchi Bharani\nDirector: Vaibhav Dhanda\nCamera: Kavaldeep Singh Jangwal, Pratik Gamre, Spandan Rout, Akshay Sawant\nEditing: Dinesh Shetty\nDirector: Suchandra Basu\nProducer: Rajjat A. Barjatya\nCopyrights: Rajshri Entertainment Private Limited\n\nShare this video on Facebook - https://goo.gl/0EkObm\nTweet about it - https://goo.gl/HjISyK\n\nSubscribe & Stay Tuned - http://www.youtube.com/user/rajshrifood?sub_confirmation=1\n\nFor more videos log onto http://www.youtube.com/rajshrifood  \n\nFind us on Facebook at https://www.facebook.com/rajshrifood\n\nFollow us on google plus https://plus.google.com/+rajshrifood",
+          "dataPoints": []
+        }
+      ]
+    },
+    {"name": "Simple Foods", "type": "custom", "totalResults": 0, "results": []}
+  ],
+  "expires": 1657223439929,
+  "isStale": false
+}

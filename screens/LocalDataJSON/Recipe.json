@@ -1,0 +1,370 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": true,
+  "dairyFree": false,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "lowFodmap": false,
+  "weightWatcherSmartPoints": 41,
+  "gaps": "no",
+  "preparationMinutes": -1,
+  "cookingMinutes": -1,
+  "aggregateLikes": 0,
+  "healthScore": 14,
+  "creditsText": "Laurens Latest",
+  "sourceName": "Laurens Latest",
+  "pricePerServing": 730.49,
+  "extendedIngredients": [
+    {
+      "id": 13833,
+      "aisle": "Meat",
+      "image": "prime-rib.png",
+      "consistency": "SOLID",
+      "name": "▢ standing rib roast",
+      "nameClean": "prime rib",
+      "original": "▢ 6 pound standing rib roast",
+      "originalName": "▢ standing rib roast",
+      "amount": 6.0,
+      "unit": "pound",
+      "meta": [],
+      "measures": {
+        "us": {"amount": 6.0, "unitShort": "lb", "unitLong": "pounds"},
+        "metric": {"amount": 2.722, "unitShort": "kgs", "unitLong": "kgs"}
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "SOLID",
+      "name": "▢ garlic",
+      "nameClean": "garlic",
+      "original": "▢ 3 cloves fresh garlic minced",
+      "originalName": "▢ fresh garlic minced",
+      "amount": 3.0,
+      "unit": "cloves",
+      "meta": ["fresh", "minced"],
+      "measures": {
+        "us": {"amount": 3.0, "unitShort": "cloves", "unitLong": "cloves"},
+        "metric": {"amount": 3.0, "unitShort": "cloves", "unitLong": "cloves"}
+      }
+    },
+    {
+      "id": 2036,
+      "aisle": "Produce;Spices and Seasonings",
+      "image": "rosemary.jpg",
+      "consistency": "SOLID",
+      "name": "▢ 6 sprigs rosemary stems removed",
+      "nameClean": "rosemary",
+      "original": "▢ 6 sprigs fresh rosemary stems removed, about 1 tablespoon chopped",
+      "originalName": "▢ 6 sprigs fresh rosemary stems removed, about chopped",
+      "amount": 1.0,
+      "unit": "tablespoon",
+      "meta": ["fresh", "chopped"],
+      "measures": {
+        "us": {"amount": 1.0, "unitShort": "Tbsp", "unitLong": "Tbsp"},
+        "metric": {"amount": 1.0, "unitShort": "Tbsp", "unitLong": "Tbsp"}
+      }
+    },
+    {
+      "id": 1012049,
+      "aisle": "Produce",
+      "image": "thyme.jpg",
+      "consistency": "SOLID",
+      "name": "▢ 10 sprigs thyme leaves",
+      "nameClean": "fresh thyme",
+      "original": "▢ 10 sprigs fresh thyme leaves about 1 tablespoon chopped",
+      "originalName": "▢ 10 sprigs fresh thyme leaves about chopped",
+      "amount": 1.0,
+      "unit": "tablespoon",
+      "meta": ["fresh", "chopped"],
+      "measures": {
+        "us": {"amount": 1.0, "unitShort": "Tbsp", "unitLong": "Tbsp"},
+        "metric": {"amount": 1.0, "unitShort": "Tbsp", "unitLong": "Tbsp"}
+      }
+    },
+    {
+      "id": 4053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "olive-oil.jpg",
+      "consistency": "LIQUID",
+      "name": "▢ olive oil",
+      "nameClean": "olive oil",
+      "original": "▢ 4 tablespoons olive oil",
+      "originalName": "▢ olive oil",
+      "amount": 4.0,
+      "unit": "tablespoons",
+      "meta": [],
+      "measures": {
+        "us": {"amount": 4.0, "unitShort": "Tbsps", "unitLong": "Tbsps"},
+        "metric": {"amount": 4.0, "unitShort": "Tbsps", "unitLong": "Tbsps"}
+      }
+    },
+    {
+      "id": 1001,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "butter-sliced.jpg",
+      "consistency": "SOLID",
+      "name": "▢ butter very",
+      "nameClean": "butter",
+      "original": "▢ 4 tablespoons butter very soft",
+      "originalName": "▢ butter very soft",
+      "amount": 4.0,
+      "unit": "tablespoons",
+      "meta": ["soft"],
+      "measures": {
+        "us": {"amount": 4.0, "unitShort": "Tbsps", "unitLong": "Tbsps"},
+        "metric": {"amount": 4.0, "unitShort": "Tbsps", "unitLong": "Tbsps"}
+      }
+    },
+    {
+      "id": 1082047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt.jpg",
+      "consistency": "SOLID",
+      "name": "▢ kosher salt",
+      "nameClean": "kosher salt",
+      "original": "▢ 2 tablespoons kosher salt or 1 tablespoon table salt",
+      "originalName": "▢ kosher salt or 1 tablespoon table salt",
+      "amount": 2.0,
+      "unit": "tablespoons",
+      "meta": [],
+      "measures": {
+        "us": {"amount": 2.0, "unitShort": "Tbsps", "unitLong": "Tbsps"},
+        "metric": {"amount": 2.0, "unitShort": "Tbsps", "unitLong": "Tbsps"}
+      }
+    },
+    {
+      "id": 1002030,
+      "aisle": "Spices and Seasonings",
+      "image": "pepper.jpg",
+      "consistency": "SOLID",
+      "name": "▢ ground pepper",
+      "nameClean": "black pepper",
+      "original": "▢ 1 tablespoon ground black pepper",
+      "originalName": "▢ ground black pepper",
+      "amount": 1.0,
+      "unit": "tablespoon",
+      "meta": ["black"],
+      "measures": {
+        "us": {"amount": 1.0, "unitShort": "Tbsp", "unitLong": "Tbsp"},
+        "metric": {"amount": 1.0, "unitShort": "Tbsp", "unitLong": "Tbsp"}
+      }
+    }
+  ],
+  "id": 1576675,
+  "title": "Prime Rib",
+  "readyInMinutes": 45,
+  "servings": 8,
+  "sourceUrl": "https://laurenslatest.com/prime-rib/",
+  "openLicense": -1,
+  "image": "https://spoonacular.com/recipeImages/1576675-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Prime Rib is a <b>gluten free and primal</b> recipe with 8 servings. This main course has <b>1133 calories</b>, <b>46g of protein</b>, and <b>103g of fat</b> per serving. For <b>$7.3 per serving</b>, this recipe <b>covers 26%</b> of your daily requirements of vitamins and minerals. This recipe from Laurens Latest has 1 fans. From preparation to the plate, this recipe takes around <b>around 45 minutes</b>. It will be a hit at your <b>valentin day</b> event. Head to the store and pick up ▢ 10 sprigs thyme leaves, ▢ kosher salt, ▢ 6 sprigs rosemary stems removed, and a few other things to make it today. All things considered, we decided this recipe <b>deserves a spoonacular score of 0%</b>. This score is very bad (but still fixable). If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/prime-rib-1101225\">Prime Rib</a>, <a href=\"https://spoonacular.com/recipes/prime-rib-754230\">Prime Rib</a>, and <a href=\"https://spoonacular.com/recipes/prime-rib-1396621\">Prime Rib</a>.",
+  "cuisines": [],
+  "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+  "diets": ["gluten free", "primal"],
+  "occasions": ["valentine's day"],
+  "winePairing": {
+    "pairedWines": ["merlot", "cabernet sauvignon", "pinot noir"],
+    "pairingText": "Prime Rib on the menu? Try pairing with Merlot, Cabernet Sauvignon, and Pinot Noir. Beef and red wine are a classic combination. Generally, leaner cuts of beef go well with light or medium-bodied reds, such as pinot noir or merlot, while fattier cuts can handle a bold red, such as cabernet sauvingnon. The O S Winery Elephant Mountain Merlot with a 5 out of 5 star rating seems like a good match. It costs about 40 dollars per bottle.",
+    "productMatches": [
+      {
+        "id": 469633,
+        "title": "O S Winery Elephant Mountain Merlot",
+        "description": "leather , floral , fruity",
+        "price": "$40.0",
+        "imageUrl": "https://spoonacular.com/productImages/469633-312x231.jpg",
+        "averageRating": 1.0,
+        "ratingCount": 1.0,
+        "score": 0.75,
+        "link": "https://www.amazon.com/Winery-Elephant-Mountain-Merlot-Yakima/dp/B009YZCJ7Y?tag=spoonacular-20"
+      }
+    ]
+  },
+  "instructions": "Instructions\n\nRemove standing rib roast from refrigerator and bring to room temperature, 2-3 hours.\n\nPreheat oven to 450 degrees F.\n\nChop garlic, rosemary and thyme together until finely minced.\n\nStir garlic and herbs together with olive oil and butter to create a paste.\n\nSprinkle salt and pepper all over roast. (You may need more or less salt and pepper, depending how large your roast is.)\n\nSpread garlic and herb butter all over roast in a thin, even layer.\n\nBake 15 minutes at 450 degrees. Then reduce oven temperature to 325 degrees F and cook 15-20 minutes per pound for medium rare. Use a thermometer to check for desired doneness.\n\nRemove from oven, cover prime rib with foil gently for 30 minutes to rest.\n\nCarve off the bone and serve.",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Remove standing rib roast from refrigerator and bring to room temperature, 2-3 hours.",
+          "ingredients": [
+            {
+              "id": 13833,
+              "name": "prime rib",
+              "localizedName": "prime rib",
+              "image": "prime-rib.png"
+            }
+          ],
+          "equipment": [],
+          "length": {"number": 180, "unit": "minutes"}
+        },
+        {
+          "number": 2,
+          "step": "Preheat oven to 450 degrees F.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg",
+              "temperature": {"number": 450.0, "unit": "Fahrenheit"}
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "step": "Chop garlic, rosemary and thyme together until finely minced.",
+          "ingredients": [
+            {
+              "id": 2036,
+              "name": "rosemary",
+              "localizedName": "rosemary",
+              "image": "rosemary.jpg"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            },
+            {
+              "id": 2049,
+              "name": "thyme",
+              "localizedName": "thyme",
+              "image": "thyme.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 4,
+          "step": "Stir garlic and herbs together with olive oil and butter to create a paste.",
+          "ingredients": [
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            },
+            {
+              "id": 1001,
+              "name": "butter",
+              "localizedName": "butter",
+              "image": "butter-sliced.jpg"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            },
+            {
+              "id": 1002044,
+              "name": "herbs",
+              "localizedName": "herbs",
+              "image": "mixed-fresh-herbs.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 5,
+          "step": "Sprinkle salt and pepper all over roast. (You may need more or less salt and pepper, depending how large your roast is.)",
+          "ingredients": [
+            {
+              "id": 1102047,
+              "name": "salt and pepper",
+              "localizedName": "salt and pepper",
+              "image": "salt-and-pepper.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 6,
+          "step": "Spread garlic and herb butter all over roast in a thin, even layer.",
+          "ingredients": [
+            {
+              "id": 1001,
+              "name": "butter",
+              "localizedName": "butter",
+              "image": "butter-sliced.jpg"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            },
+            {"id": 0, "name": "spread", "localizedName": "spread", "image": ""}
+          ],
+          "equipment": []
+        },
+        {
+          "number": 7,
+          "step": "Bake 15 minutes at 450 degrees. Then reduce oven temperature to 325 degrees F and cook 15-20 minutes per pound for medium rare. Use a thermometer to check for desired doneness.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404789,
+              "name": "kitchen thermometer",
+              "localizedName": "kitchen thermometer",
+              "image": "food-thermometer.jpg"
+            },
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg",
+              "temperature": {"number": 325.0, "unit": "Fahrenheit"}
+            }
+          ],
+          "length": {"number": 35, "unit": "minutes"}
+        },
+        {
+          "number": 8,
+          "step": "Remove from oven, cover prime rib with foil gently for 30 minutes to rest.",
+          "ingredients": [
+            {
+              "id": 13833,
+              "name": "prime rib",
+              "localizedName": "prime rib",
+              "image": "prime-rib.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404765,
+              "name": "aluminum foil",
+              "localizedName": "aluminum foil",
+              "image": "aluminum-foil.png"
+            },
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ],
+          "length": {"number": 30, "unit": "minutes"}
+        },
+        {
+          "number": 9,
+          "step": "Carve off the bone and serve.",
+          "ingredients": [
+            {"id": 0, "name": "bone", "localizedName": "bone", "image": ""}
+          ],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "originalId": null
+}
